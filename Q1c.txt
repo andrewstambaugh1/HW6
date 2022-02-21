@@ -1,0 +1,139 @@
+See below the output for each year
+
+First of all, I can see that near election years, the election itself always shoots up to the top keyword, and there is more press in general.
+However, the 2016 election was a keyword in over 2000 more headlines in its year than the 2012 election in 2012. During and after the 2016 election, 
+United Stated Politics and Government as a keyword went from ~2500 a year to over 5500 a year. Furthermore, political topics in general, such as the Republican Party, 
+Donald Trump, and International Relations, become MUCH more popular after the 2016 election. In conclusion, the 2016 election made the US politics in general a much 
+bigger topic in the press, at least for the New York Times. 
+
+2011
+Politics and Government, 3233
+Books and Literature, 2898
+Obama, Barack, 2687
+New York City, 2675
+United States Politics and Government, 2554
+Football, 2479
+Baseball, 2308
+Music, 2225
+Movies, 2119
+Art, 2078
+
+2012
+Presidential Election of 2012, 5347
+Obama, Barack, 3785
+Romney, Mitt, 3670
+New York City, 3314
+Books and Literature, 3194
+Music, 2716
+Movies, 2449
+Football, 2337
+United States Politics and Government, 2274
+Art, 2188
+
+2013
+New York City, 3353
+Books and Literature, 3164
+Movies, 2748
+Music, 2634
+Obama, Barack, 2374
+United States Politics and Government, 2344
+Art, 2300
+Baseball, 1920
+Theater, 1870
+Fashion and Apparel, 1815
+
+2014
+Books and Literature, 3187
+New York City, 2928
+Movies, 2759
+United States, 2722
+Music, 2660
+Obama, Barack, 2488
+United States Politics and Government, 2448
+Art, 2138
+Fashion and Apparel, 2074
+China, 1978
+
+2015
+Presidential Election of 2016, 4036
+Books and Literature, 2997
+Music, 2690
+New York City, 2683
+Movies, 2623
+United States Politics and Government, 2439
+Fashion and Apparel, 2339
+Art, 2262
+Television, 2256
+United States, 2203
+
+2016
+Presidential Election of 2016, 7485
+Trump, Donald J, 5739
+Clinton, Hillary Rodham, 3005
+Books and Literature, 2747
+New York City, 2551
+Movies, 2515
+United States Politics and Government, 2203
+Television, 2186
+Music, 2165
+Republican Party, 2082
+
+2017
+Trump, Donald J, 7777
+United States Politics and Government, 7037
+Books and Literature, 2405
+Movies, 2114
+Politics and Government, 2006
+Television, 1863
+New York City, 1743
+United States International Relations, 1531
+Republican Party, 1472
+Weddings and Engagements, 1384
+
+2018
+Trump, Donald J, 7044
+United States Politics and Government, 6975
+Politics and Government, 2834
+Books and Literature, 2557
+Movies, 2183
+New York City, 1919
+United States International Relations, 1902
+Television, 1863
+Midterm Elections (2018), 1694
+Women and Girls, 1507
+
+2019
+United States Politics and Government, 6724
+Trump, Donald J, 6542
+Politics and Government, 3137
+Presidential Election of 2020, 2558
+Books and Literature, 2321
+Democratic Party, 2293
+Movies, 2210
+United States International Relations, 1873
+New York City, 1768
+Television, 1741
+
+2020
+Coronavirus (2019-nCoV), 14270
+United States Politics and Government, 7023
+Trump, Donald J, 6933
+Presidential Election of 2020, 6529
+United States, 2897
+Biden, Joseph R Jr, 2781
+Politics and Government, 2471
+Quarantines, 2428
+Books and Literature, 2371
+Quarantine (Life and Culture), 2322
+
+2021
+Coronavirus (2019-nCoV), 9095
+United States Politics and Government, 5714
+United States, 4703
+Biden, Joseph R Jr, 3514
+Vaccination and Immunization, 3260
+Politics and Government, 3099
+Disease Rates, 2968
+Deaths (Fatalities), 2766
+Content Type: Personal Profile, 2680
+Books and Literature, 2435
